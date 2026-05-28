@@ -1,0 +1,14 @@
+# origem destino
+A G
+# aresta origem destino custo
+A B 7
+A C 8
+B D 5
+B E 9
+C E 7
+C F 5
+D G 15
+E D 6
+E G 8
+F E 9
+F G 11

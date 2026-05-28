@@ -1,0 +1,11 @@
+# capacidade_veiculo numero_veiculos deposito
+15 2 0
+# demandas por no, incluindo deposito
+0 4 6 5 3 7
+# matriz de custos
+0 4 8 6 7 3
+4 0 5 3 6 7
+8 5 0 4 3 6
+6 3 4 0 5 4
+7 6 3 5 0 5
+3 7 6 4 5 0
