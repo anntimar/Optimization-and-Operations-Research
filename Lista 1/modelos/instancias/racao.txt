@@ -1,0 +1,11 @@
+# produto cereais carne preco
+AMGS 5 1 20
+RE 2 4 30
+
+# custos
+cereal 1
+carne 4
+
+# disponibilidade
+cereais 30000
+carne 10000

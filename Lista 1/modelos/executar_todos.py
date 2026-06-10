@@ -4,6 +4,7 @@ from caminho_minimo_pli import resolver as resolver_caminho_minimo
 from clique_maxima_pli import resolver as resolver_clique_maxima
 from tsp_pli import resolver as resolver_tsp
 from cvrp_pli import resolver as resolver_cvrp
+from racao import resolver as resolver_racao
 
 
 if __name__ == "__main__":
@@ -13,3 +14,4 @@ if __name__ == "__main__":
     resolver_clique_maxima()
     resolver_tsp()
     resolver_cvrp()
+    resolver_racao()
