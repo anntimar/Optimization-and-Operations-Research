@@ -1,0 +1,10 @@
+# ofertas das fabricas
+120 80 80
+
+# demandas dos depositos
+150 70 60
+
+# matriz de custos
+8 5 6
+15 10 12
+3 9 10

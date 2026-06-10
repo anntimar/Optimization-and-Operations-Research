@@ -6,7 +6,7 @@ from tsp_pli import resolver as resolver_tsp
 from cvrp_pli import resolver as resolver_cvrp
 from racao import resolver as resolver_racao
 from dieta import resolver as resolver_dieta
-
+from transporte import resolver as resolver_transporte
 
 if __name__ == "__main__":
     resolver_mochila()
@@ -17,4 +17,4 @@ if __name__ == "__main__":
     resolver_cvrp()
     resolver_racao()
     resolver_dieta()
-    
+    resolver_transporte()
