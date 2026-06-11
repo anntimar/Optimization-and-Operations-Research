@@ -1,0 +1,10 @@
+# bairros
+A B C D E F
+
+# bairro_candidato bairros_cobertos...
+A A B C
+B A B D
+C A C D E
+D B C D F
+E C E F
+F D E F

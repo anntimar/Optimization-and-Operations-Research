@@ -8,6 +8,8 @@ from racao import resolver as resolver_racao
 from dieta import resolver as resolver_dieta
 from transporte import resolver as resolver_transporte
 from fluxo_maximo import resolver as resolver_fluxo_maximo
+from cobertura import resolver as resolver_cobertura
+from escalonamento import resolver as resolver_escalonamento
 
 if __name__ == "__main__":
     resolver_mochila()
@@ -20,3 +22,5 @@ if __name__ == "__main__":
     resolver_dieta()
     resolver_transporte()
     resolver_fluxo_maximo()
+    resolver_cobertura()
+    resolver_escalonamento()
