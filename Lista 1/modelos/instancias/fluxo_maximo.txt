@@ -1,0 +1,19 @@
+# origem destino
+s t
+
+# origem destino capacidade
+s v1 5
+s v2 4
+s v3 6
+v1 v2 4
+v2 v3 3
+v1 v4 6
+v1 v5 5
+v2 v5 4
+v3 v5 6
+v3 v6 5
+v4 v5 5
+v6 v5 7
+v4 t 5
+v5 t 3
+v6 t 6
